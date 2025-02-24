@@ -1,6 +1,6 @@
 import sys
 
-def main()
+def main():
     #writes $ to prompt user input
     sys.stdout.write('$ ')
     
